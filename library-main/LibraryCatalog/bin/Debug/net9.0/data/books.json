@@ -1,0 +1,2795 @@
+[
+  {
+    "serial": "001",
+    "title": "The Iron Heel",
+    "author": "Jack London",
+    "languages": "eng, por, swe, spa, yid, ger, fin, chi, fre",
+    "available": true
+  },
+  {
+    "serial": "002",
+    "title": "The Iron Heel",
+    "author": "Jack London",
+    "languages": "eng, por, swe, spa, yid, ger, fin, chi, fre",
+    "available": true
+  },
+  {
+    "serial": "003",
+    "title": "Anthem",
+    "author": "Ayn Rand, Erin Bateman",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "004",
+    "title": "Lilith",
+    "author": "George MacDonald",
+    "languages": "ger, eng, ita",
+    "available": true
+  },
+  {
+    "serial": "005",
+    "title": "Brood of the Witch-Queen",
+    "author": "Sax Rohmer",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "006",
+    "title": "Brood of the Witch-Queen",
+    "author": "Sax Rohmer",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "007",
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "languages": "eng, rus",
+    "available": true
+  },
+  {
+    "serial": "008",
+    "title": "The Enchanted Castle",
+    "author": "Edith Nesbit",
+    "languages": "eng, spa, chi",
+    "available": true
+  },
+  {
+    "serial": "009",
+    "title": "The Enchanted Castle",
+    "author": "Edith Nesbit",
+    "languages": "eng, spa, chi",
+    "available": true
+  },
+  {
+    "serial": "010",
+    "title": "The Enchanted Castle",
+    "author": "Edith Nesbit",
+    "languages": "eng, spa, chi",
+    "available": true
+  },
+  {
+    "serial": "011",
+    "title": "Pollyanna",
+    "author": "Eleanor Hodgman Porter, Porter, Neil Reed, Lee Giles",
+    "languages": "rus, eng, heb, jpn, tur, chi, pol",
+    "available": true
+  },
+  {
+    "serial": "012",
+    "title": "Pollyanna",
+    "author": "Eleanor Hodgman Porter, Porter, Neil Reed, Lee Giles",
+    "languages": "rus, eng, heb, jpn, tur, chi, pol",
+    "available": true
+  },
+  {
+    "serial": "013",
+    "title": "Pollyanna",
+    "author": "Eleanor Hodgman Porter, Porter, Neil Reed, Lee Giles",
+    "languages": "rus, eng, heb, jpn, tur, chi, pol",
+    "available": true
+  },
+  {
+    "serial": "014",
+    "title": "Anne of the Island",
+    "author": "Lucy Maud Montgomery",
+    "languages": "fin, eng, ara, spa, dan, fre, swe, ger, pol, chi",
+    "available": true
+  },
+  {
+    "serial": "015",
+    "title": "The blue castle",
+    "author": "Lucy Maud Montgomery",
+    "languages": "fre, eng, chi",
+    "available": true
+  },
+  {
+    "serial": "016",
+    "title": "The blue castle",
+    "author": "Lucy Maud Montgomery",
+    "languages": "fre, eng, chi",
+    "available": true
+  },
+  {
+    "serial": "017",
+    "title": "Phantastes",
+    "author": "George MacDonald",
+    "languages": "fre, eng",
+    "available": true
+  },
+  {
+    "serial": "018",
+    "title": "The Road to Oz",
+    "author": "L. Frank Baum",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "019",
+    "title": "The Road to Oz",
+    "author": "L. Frank Baum",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "020",
+    "title": "The food of the gods and how it came to earth",
+    "author": "H. G. Wells",
+    "languages": "eng, por",
+    "available": true
+  },
+  {
+    "serial": "021",
+    "title": "The food of the gods and how it came to earth",
+    "author": "H. G. Wells",
+    "languages": "eng, por",
+    "available": true
+  },
+  {
+    "serial": "022",
+    "title": "Anne of Windy Poplars",
+    "author": "Lucy Maud Montgomery",
+    "languages": "pol, eng, dan, ger, jpn, spa, fre, chi, swe",
+    "available": true
+  },
+  {
+    "serial": "023",
+    "title": "Anne of Windy Poplars",
+    "author": "Lucy Maud Montgomery",
+    "languages": "pol, eng, dan, ger, jpn, spa, fre, chi, swe",
+    "available": true
+  },
+  {
+    "serial": "024",
+    "title": "Just So Stories",
+    "author": "Rudyard Kipling",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "025",
+    "title": "Just So Stories",
+    "author": "Rudyard Kipling",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "026",
+    "title": "Just So Stories",
+    "author": "Rudyard Kipling",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "027",
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "author": "L. Frank Baum",
+    "languages": "fre, eng",
+    "available": true
+  },
+  {
+    "serial": "028",
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "author": "L. Frank Baum",
+    "languages": "fre, eng",
+    "available": true
+  },
+  {
+    "serial": "029",
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "languages": "eng, spa, ger",
+    "available": true
+  },
+  {
+    "serial": "030",
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "languages": "eng, spa, ger",
+    "available": true
+  },
+  {
+    "serial": "031",
+    "title": "Of Human Bondage",
+    "author": "William Somerset Maugham",
+    "languages": "spa, rus, ger, eng, vie, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "032",
+    "title": "Of Human Bondage",
+    "author": "William Somerset Maugham",
+    "languages": "spa, rus, ger, eng, vie, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "033",
+    "title": "The Power of Darkness",
+    "author": "Edith Nesbit",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "034",
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "languages": "eng, pol, spa",
+    "available": true
+  },
+  {
+    "serial": "035",
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "languages": "eng, pol, spa",
+    "available": true
+  },
+  {
+    "serial": "036",
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "languages": "eng, pol, spa",
+    "available": true
+  },
+  {
+    "serial": "037",
+    "title": "The Phoenix and the Carpet",
+    "author": "Edith Nesbit",
+    "languages": "eng, ger",
+    "available": true
+  },
+  {
+    "serial": "038",
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "languages": "spa, rus, eng, cze, ita, fin, fre, chi, ger, pol",
+    "available": true
+  },
+  {
+    "serial": "039",
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "languages": "spa, rus, eng, cze, ita, fin, fre, chi, ger, pol",
+    "available": true
+  },
+  {
+    "serial": "040",
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "languages": "spa, rus, eng, cze, ita, fin, fre, chi, ger, pol",
+    "available": true
+  },
+  {
+    "serial": "041",
+    "title": "Записки изъ подполья",
+    "author": "Фёдор Михайлович Достоевский",
+    "languages": "rus, eng",
+    "available": true
+  },
+  {
+    "serial": "042",
+    "title": "Записки изъ подполья",
+    "author": "Фёдор Михайлович Достоевский",
+    "languages": "rus, eng",
+    "available": true
+  },
+  {
+    "serial": "043",
+    "title": "Мастер и Маргарита",
+    "author": "Михаил Афанасьевич Булгаков",
+    "languages": "rum, ita, eng, spa, rus, por, lit, ger, fre, cze, tur, pol, geo, chi",
+    "available": true
+  },
+  {
+    "serial": "044",
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "languages": "eng, por, spa, ger, ita, pol, chi, dan, fre, heb",
+    "available": true
+  },
+  {
+    "serial": "045",
+    "title": "Daddy-Long-Legs",
+    "author": "Jean Webster",
+    "languages": "ger, und, eng, per, fre, chi, spa, jpn, pol",
+    "available": true
+  },
+  {
+    "serial": "046",
+    "title": "Daddy-Long-Legs",
+    "author": "Jean Webster",
+    "languages": "ger, und, eng, per, fre, chi, spa, jpn, pol",
+    "available": true
+  },
+  {
+    "serial": "047",
+    "title": "Under the Greenwood Tree or, The Mellstock quire",
+    "author": "Thomas Hardy",
+    "languages": "fre, eng",
+    "available": true
+  },
+  {
+    "serial": "048",
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "languages": "rus, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "049",
+    "title": "On The Beach",
+    "author": "Nevil Shute, Gideon Haigh, G. C. Thornley, SparkNotes Staff, SparkNotes",
+    "languages": "rus, eng, heb, dut, ger",
+    "available": true
+  },
+  {
+    "serial": "050",
+    "title": "On The Beach",
+    "author": "Nevil Shute, Gideon Haigh, G. C. Thornley, SparkNotes Staff, SparkNotes",
+    "languages": "rus, eng, heb, dut, ger",
+    "available": true
+  },
+  {
+    "serial": "051",
+    "title": "On The Beach",
+    "author": "Nevil Shute, Gideon Haigh, G. C. Thornley, SparkNotes Staff, SparkNotes",
+    "languages": "rus, eng, heb, dut, ger",
+    "available": true
+  },
+  {
+    "serial": "052",
+    "title": "Carmilla",
+    "author": "Joseph Sheridan Le Fanu",
+    "languages": "spa, ita, eng, por, fre",
+    "available": true
+  },
+  {
+    "serial": "053",
+    "title": "Carmilla",
+    "author": "Joseph Sheridan Le Fanu",
+    "languages": "spa, ita, eng, por, fre",
+    "available": true
+  },
+  {
+    "serial": "054",
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "languages": "eng, por, gre, spa, ger, chi, pol, fre, ita, dut",
+    "available": true
+  },
+  {
+    "serial": "055",
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "languages": "eng, por, gre, spa, ger, chi, pol, fre, ita, dut",
+    "available": true
+  },
+  {
+    "serial": "056",
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "languages": "eng, por, gre, spa, ger, chi, pol, fre, ita, dut",
+    "available": true
+  },
+  {
+    "serial": "057",
+    "title": "Far From the Madding Crowd",
+    "author": "Thomas Hardy",
+    "languages": "swe, und, eng, por",
+    "available": true
+  },
+  {
+    "serial": "058",
+    "title": "Far From the Madding Crowd",
+    "author": "Thomas Hardy",
+    "languages": "swe, und, eng, por",
+    "available": true
+  },
+  {
+    "serial": "059",
+    "title": "Far From the Madding Crowd",
+    "author": "Thomas Hardy",
+    "languages": "swe, und, eng, por",
+    "available": true
+  },
+  {
+    "serial": "060",
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "languages": "pol, eng, kor, ukr, ger, spa, hun, rus, jpn, cze, chi",
+    "available": true
+  },
+  {
+    "serial": "061",
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "languages": "ger, ita, eng",
+    "available": true
+  },
+  {
+    "serial": "062",
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "languages": "ger, ita, eng",
+    "available": true
+  },
+  {
+    "serial": "063",
+    "title": "Martin Eden",
+    "author": "Jack London",
+    "languages": "eng, swe, spa, vie, ger, chi, dan, alb, fin, rus, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "064",
+    "title": "Martin Eden",
+    "author": "Jack London",
+    "languages": "eng, swe, spa, vie, ger, chi, dan, alb, fin, rus, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "065",
+    "title": "The Beautiful and Damned",
+    "author": "F. Scott Fitzgerald",
+    "languages": "ita, eng, spa, ger, chi",
+    "available": true
+  },
+  {
+    "serial": "066",
+    "title": "The Story of the Amulet",
+    "author": "Edith Nesbit",
+    "languages": "ger, eng, fre, chi, heb",
+    "available": true
+  },
+  {
+    "serial": "067",
+    "title": "The Story of the Amulet",
+    "author": "Edith Nesbit",
+    "languages": "ger, eng, fre, chi, heb",
+    "available": true
+  },
+  {
+    "serial": "068",
+    "title": "The Story of the Amulet",
+    "author": "Edith Nesbit",
+    "languages": "ger, eng, fre, chi, heb",
+    "available": true
+  },
+  {
+    "serial": "069",
+    "title": "The Book of Dragons",
+    "author": "Edith Nesbit",
+    "languages": "fre, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "070",
+    "title": "The Book of Dragons",
+    "author": "Edith Nesbit",
+    "languages": "fre, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "071",
+    "title": "The Book of Dragons",
+    "author": "Edith Nesbit",
+    "languages": "fre, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "072",
+    "title": "Anne's House of Dreams",
+    "author": "Lucy Maud Montgomery",
+    "languages": "fin, eng, spa, dan, fre, ger, pol, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "073",
+    "title": "Anne's House of Dreams",
+    "author": "Lucy Maud Montgomery",
+    "languages": "fin, eng, spa, dan, fre, ger, pol, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "074",
+    "title": "Anne's House of Dreams",
+    "author": "Lucy Maud Montgomery",
+    "languages": "fin, eng, spa, dan, fre, ger, pol, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "075",
+    "title": "A Little Princess",
+    "author": "Frances Hodgson Burnett, Oxford University Press Staff, Jennifer Bassett, Justine Eyre, Nancy Bond",
+    "languages": "und, eng, ara, spa",
+    "available": true
+  },
+  {
+    "serial": "076",
+    "title": "A Little Princess",
+    "author": "Frances Hodgson Burnett, Oxford University Press Staff, Jennifer Bassett, Justine Eyre, Nancy Bond",
+    "languages": "und, eng, ara, spa",
+    "available": true
+  },
+  {
+    "serial": "077",
+    "title": "Der Zauberberg",
+    "author": "Thomas Mann",
+    "languages": "eng, spa, ger, fre, rus, yid",
+    "available": true
+  },
+  {
+    "serial": "078",
+    "title": "Der Zauberberg",
+    "author": "Thomas Mann",
+    "languages": "eng, spa, ger, fre, rus, yid",
+    "available": true
+  },
+  {
+    "serial": "079",
+    "title": "Der Zauberberg",
+    "author": "Thomas Mann",
+    "languages": "eng, spa, ger, fre, rus, yid",
+    "available": true
+  },
+  {
+    "serial": "080",
+    "title": "Voyage au Centre de la Terre",
+    "author": "Jules Verne",
+    "languages": "eng, heb, mac, fre, cze, por, chi, ita, vie, spa",
+    "available": true
+  },
+  {
+    "serial": "081",
+    "title": "Voyage au Centre de la Terre",
+    "author": "Jules Verne",
+    "languages": "eng, heb, mac, fre, cze, por, chi, ita, vie, spa",
+    "available": true
+  },
+  {
+    "serial": "082",
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "languages": "eng, spa, pol, gle, mul, rus, fre",
+    "available": true
+  },
+  {
+    "serial": "083",
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "languages": "eng, spa, pol, gle, mul, rus, fre",
+    "available": true
+  },
+  {
+    "serial": "084",
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "languages": "eng, por, cat, spa, ger, chi, mon, rus, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "085",
+    "title": "Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte",
+    "author": "Michael Ende",
+    "languages": "vie, chi, jpn, heb, rus, glg, fre, cat, bul, ita, slo, eng, gre, tha, tur, swe, lit, dan, per, est, ara, por, ast, pol, baq, kor, spa, slv, dut, ger",
+    "available": true
+  },
+  {
+    "serial": "086",
+    "title": "Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte",
+    "author": "Michael Ende",
+    "languages": "vie, chi, jpn, heb, rus, glg, fre, cat, bul, ita, slo, eng, gre, tha, tur, swe, lit, dan, per, est, ara, por, ast, pol, baq, kor, spa, slv, dut, ger",
+    "available": true
+  },
+  {
+    "serial": "087",
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "languages": "eng, ger",
+    "available": true
+  },
+  {
+    "serial": "088",
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "languages": "eng, ger",
+    "available": true
+  },
+  {
+    "serial": "089",
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "languages": "eng, ger",
+    "available": true
+  },
+  {
+    "serial": "090",
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "languages": "slv, spa, fre, srp, dan, ger, dut, hun, cze, heb, por, nor, hrv, fin, swe, eng, ita, chi, cat",
+    "available": true
+  },
+  {
+    "serial": "091",
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "languages": "slv, spa, fre, srp, dan, ger, dut, hun, cze, heb, por, nor, hrv, fin, swe, eng, ita, chi, cat",
+    "available": true
+  },
+  {
+    "serial": "092",
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "languages": "slv, spa, fre, srp, dan, ger, dut, hun, cze, heb, por, nor, hrv, fin, swe, eng, ita, chi, cat",
+    "available": true
+  },
+  {
+    "serial": "093",
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "languages": "rus, spa, eng, bul, ita, fre, chi, ger, pol, por",
+    "available": true
+  },
+  {
+    "serial": "094",
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "languages": "rus, spa, eng, bul, ita, fre, chi, ger, pol, por",
+    "available": true
+  },
+  {
+    "serial": "095",
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "languages": "pol, ita, por, eng, spa, ger, fre, rus, bul, dut, chi",
+    "available": true
+  },
+  {
+    "serial": "096",
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "languages": "pol, ita, por, eng, spa, ger, fre, rus, bul, dut, chi",
+    "available": true
+  },
+  {
+    "serial": "097",
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "languages": "pol, ita, por, eng, spa, ger, fre, rus, bul, dut, chi",
+    "available": true
+  },
+  {
+    "serial": "098",
+    "title": "Eva Luna",
+    "author": "Isabel Allende",
+    "languages": "ita, eng, spa, dut, por, ger, tur, fre, chi",
+    "available": true
+  },
+  {
+    "serial": "099",
+    "title": "Murder on the Links",
+    "author": "Agatha Christie",
+    "languages": "spa, eng, ita, fre, chi, ger, pol, por",
+    "available": true
+  },
+  {
+    "serial": "100",
+    "title": "Murder on the Links",
+    "author": "Agatha Christie",
+    "languages": "spa, eng, ita, fre, chi, ger, pol, por",
+    "available": true
+  },
+  {
+    "serial": "101",
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "languages": "eng, spa, chi, ita, gle, per, epo",
+    "available": true
+  },
+  {
+    "serial": "102",
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "languages": "eng, spa, chi, ita, gle, per, epo",
+    "available": true
+  },
+  {
+    "serial": "103",
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "languages": "eng, spa, chi, ita, gle, per, epo",
+    "available": true
+  },
+  {
+    "serial": "104",
+    "title": "After the Funeral",
+    "author": "Agatha Christie",
+    "languages": "eng, por, gre, spa, ger, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "105",
+    "title": "After the Funeral",
+    "author": "Agatha Christie",
+    "languages": "eng, por, gre, spa, ger, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "106",
+    "title": "A Room with a View",
+    "author": "Edward Morgan Forster",
+    "languages": "ita, eng, spa, fre, chi",
+    "available": true
+  },
+  {
+    "serial": "107",
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "languages": "rum, pol, por, fin, eng, spa, ger, fre, tur, per, dut, chi, swe",
+    "available": true
+  },
+  {
+    "serial": "108",
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "languages": "rum, pol, por, fin, eng, spa, ger, fre, tur, per, dut, chi, swe",
+    "available": true
+  },
+  {
+    "serial": "109",
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "languages": "rum, pol, por, fin, eng, spa, ger, fre, tur, per, dut, chi, swe",
+    "available": true
+  },
+  {
+    "serial": "110",
+    "title": "White Fang",
+    "author": "Jack London",
+    "languages": "und, fin, ita, eng, vie, cat, dut, dan, spa, rus, per, por, ger, fre, kor, pol, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "111",
+    "title": "White Fang",
+    "author": "Jack London",
+    "languages": "und, fin, ita, eng, vie, cat, dut, dan, spa, rus, per, por, ger, fre, kor, pol, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "112",
+    "title": "White Fang",
+    "author": "Jack London",
+    "languages": "und, fin, ita, eng, vie, cat, dut, dan, spa, rus, per, por, ger, fre, kor, pol, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "113",
+    "title": "It Can't Happen Here",
+    "author": "Sinclair Lewis",
+    "languages": "eng, und, rus",
+    "available": true
+  },
+  {
+    "serial": "114",
+    "title": "It Can't Happen Here",
+    "author": "Sinclair Lewis",
+    "languages": "eng, und, rus",
+    "available": true
+  },
+  {
+    "serial": "115",
+    "title": "It Can't Happen Here",
+    "author": "Sinclair Lewis",
+    "languages": "eng, und, rus",
+    "available": true
+  },
+  {
+    "serial": "116",
+    "title": "Murder in Mesopotamia",
+    "author": "Agatha Christie",
+    "languages": "dut, fin, ger, ita, eng, fre, rum, chi, spa, jpn",
+    "available": true
+  },
+  {
+    "serial": "117",
+    "title": "Murder in Mesopotamia",
+    "author": "Agatha Christie",
+    "languages": "dut, fin, ger, ita, eng, fre, rum, chi, spa, jpn",
+    "available": true
+  },
+  {
+    "serial": "118",
+    "title": "Murder in Mesopotamia",
+    "author": "Agatha Christie",
+    "languages": "dut, fin, ger, ita, eng, fre, rum, chi, spa, jpn",
+    "available": true
+  },
+  {
+    "serial": "119",
+    "title": "The Scarlet Pimpernel",
+    "author": "Emmuska Orczy, Baroness Orczy",
+    "languages": "eng, spa, chi, pol, sun, fre",
+    "available": true
+  },
+  {
+    "serial": "120",
+    "title": "The Scarlet Pimpernel",
+    "author": "Emmuska Orczy, Baroness Orczy",
+    "languages": "eng, spa, chi, pol, sun, fre",
+    "available": true
+  },
+  {
+    "serial": "121",
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "languages": "ger, und, eng, chi, spa",
+    "available": true
+  },
+  {
+    "serial": "122",
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "languages": "ger, und, eng, chi, spa",
+    "available": true
+  },
+  {
+    "serial": "123",
+    "title": "Le fantôme de l'opéra",
+    "author": "Gaston Leroux",
+    "languages": "spa, eng, ita, jpn, tur, fre, chi, ger, por",
+    "available": true
+  },
+  {
+    "serial": "124",
+    "title": "Le fantôme de l'opéra",
+    "author": "Gaston Leroux",
+    "languages": "spa, eng, ita, jpn, tur, fre, chi, ger, por",
+    "available": true
+  },
+  {
+    "serial": "125",
+    "title": "The water-babies",
+    "author": "Charles Kingsley, Charles Kingsley",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "126",
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "languages": "eng, srp, fre, ger, por, cat, chi, ita, pol, jpn, spa",
+    "available": true
+  },
+  {
+    "serial": "127",
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "languages": "eng, srp, fre, ger, por, cat, chi, ita, pol, jpn, spa",
+    "available": true
+  },
+  {
+    "serial": "128",
+    "title": "Appointment with Death",
+    "author": "Agatha Christie",
+    "languages": "ita, eng, spa, fre, ger, pol, hin, chi",
+    "available": true
+  },
+  {
+    "serial": "129",
+    "title": "Appointment with Death",
+    "author": "Agatha Christie",
+    "languages": "ita, eng, spa, fre, ger, pol, hin, chi",
+    "available": true
+  },
+  {
+    "serial": "130",
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "languages": "eng, swe, jpn, spa, vie, ger, chi, pol, ita",
+    "available": true
+  },
+  {
+    "serial": "131",
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "languages": "eng, swe, jpn, spa, vie, ger, chi, pol, ita",
+    "available": true
+  },
+  {
+    "serial": "132",
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "languages": "eng, swe, jpn, spa, vie, ger, chi, pol, ita",
+    "available": true
+  },
+  {
+    "serial": "133",
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "languages": "spa, eng, vie, ita, jpn, chi, ger, pol, swe",
+    "available": true
+  },
+  {
+    "serial": "134",
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "languages": "spa, eng, vie, ita, jpn, chi, ger, pol, swe",
+    "available": true
+  },
+  {
+    "serial": "135",
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "languages": "spa, eng, vie, ita, jpn, chi, ger, pol, swe",
+    "available": true
+  },
+  {
+    "serial": "136",
+    "title": "Demian",
+    "author": "Hermann Hesse",
+    "languages": "eng, per, ukr, ger, kor, ita, por, spa, fre, chi, epo, cat",
+    "available": true
+  },
+  {
+    "serial": "137",
+    "title": "Demian",
+    "author": "Hermann Hesse",
+    "languages": "eng, per, ukr, ger, kor, ita, por, spa, fre, chi, epo, cat",
+    "available": true
+  },
+  {
+    "serial": "138",
+    "title": "Demian",
+    "author": "Hermann Hesse",
+    "languages": "eng, per, ukr, ger, kor, ita, por, spa, fre, chi, epo, cat",
+    "available": true
+  },
+  {
+    "serial": "139",
+    "title": "Robin Hood",
+    "author": "Howard Pyle",
+    "languages": "spa, eng, tur, fre, ger, rum",
+    "available": true
+  },
+  {
+    "serial": "140",
+    "title": "Anne of Avonlea",
+    "author": "Lucy Maud Montgomery",
+    "languages": "pol, ita, vie, fin, eng, spa, dan, ger, heb, fre, lit, jpn, chi",
+    "available": true
+  },
+  {
+    "serial": "141",
+    "title": "The Hollow",
+    "author": "Agatha Christie",
+    "languages": "spa, eng, heb, fre, ger",
+    "available": true
+  },
+  {
+    "serial": "142",
+    "title": "Tik-Tok of Oz",
+    "author": "L. Frank Baum",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "143",
+    "title": "The Secret of Chimneys",
+    "author": "Agatha Christie",
+    "languages": "spa, eng, ita, fre, ger",
+    "available": true
+  },
+  {
+    "serial": "144",
+    "title": "Бѣсы",
+    "author": "Фёдор Михайлович Достоевский",
+    "languages": "rum, ita, eng, spa, dut, rus, por, ger, fre, cze, tur, chi",
+    "available": true
+  },
+  {
+    "serial": "145",
+    "title": "Бѣсы",
+    "author": "Фёдор Михайлович Достоевский",
+    "languages": "rum, ita, eng, spa, dut, rus, por, ger, fre, cze, tur, chi",
+    "available": true
+  },
+  {
+    "serial": "146",
+    "title": "Бѣсы",
+    "author": "Фёдор Михайлович Достоевский",
+    "languages": "rum, ita, eng, spa, dut, rus, por, ger, fre, cze, tur, chi",
+    "available": true
+  },
+  {
+    "serial": "147",
+    "title": "The Twits",
+    "author": "Roald Dahl",
+    "languages": "sco, eng, wel, spa, fre, kor, ger, pol, chi",
+    "available": true
+  },
+  {
+    "serial": "148",
+    "title": "The Twits",
+    "author": "Roald Dahl",
+    "languages": "sco, eng, wel, spa, fre, kor, ger, pol, chi",
+    "available": true
+  },
+  {
+    "serial": "149",
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "languages": "eng, cze, spa, fin, ger, chi, rus, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "150",
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "languages": "eng, cze, spa, fin, ger, chi, rus, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "151",
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "languages": "eng, cze, spa, fin, ger, chi, rus, fre, ita",
+    "available": true
+  },
+  {
+    "serial": "152",
+    "title": "My Ántonia",
+    "author": "Willa Cather",
+    "languages": "spa, rus, eng, cze, ita, fre, chi, ger",
+    "available": true
+  },
+  {
+    "serial": "153",
+    "title": "My Ántonia",
+    "author": "Willa Cather",
+    "languages": "spa, rus, eng, cze, ita, fre, chi, ger",
+    "available": true
+  },
+  {
+    "serial": "154",
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "languages": "eng, swe, jpn, spa, ger, chi, pol, ice, arm, rus, fre, ita, kor",
+    "available": true
+  },
+  {
+    "serial": "155",
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "languages": "eng, swe, jpn, spa, ger, chi, pol, ice, arm, rus, fre, ita, kor",
+    "available": true
+  },
+  {
+    "serial": "156",
+    "title": "Der Steppenwolf",
+    "author": "Hermann Hesse",
+    "languages": "pol, ita, por, fin, eng, kor, spa, ger, heb, fre, rus, dut, chi",
+    "available": true
+  },
+  {
+    "serial": "157",
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "languages": "lao, slv, per, ind, afr, swa, ukr, hin, tur, rus, baq, spa, fre, may, kan, yid, ice, mac, slo, ger, pol, hun, cze, mar, hat, rum, bul, wel, heb, tam, por, aze, est, lav, gre, hrv, epo, urd, geo, eng, tel, ara, kor, ita, jpn, tha, chi, bel",
+    "available": true
+  },
+  {
+    "serial": "158",
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "languages": "lao, slv, per, ind, afr, swa, ukr, hin, tur, rus, baq, spa, fre, may, kan, yid, ice, mac, slo, ger, pol, hun, cze, mar, hat, rum, bul, wel, heb, tam, por, aze, est, lav, gre, hrv, epo, urd, geo, eng, tel, ara, kor, ita, jpn, tha, chi, bel",
+    "available": true
+  },
+  {
+    "serial": "159",
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "languages": "lao, slv, per, ind, afr, swa, ukr, hin, tur, rus, baq, spa, fre, may, kan, yid, ice, mac, slo, ger, pol, hun, cze, mar, hat, rum, bul, wel, heb, tam, por, aze, est, lav, gre, hrv, epo, urd, geo, eng, tel, ara, kor, ita, jpn, tha, chi, bel",
+    "available": true
+  },
+  {
+    "serial": "160",
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "languages": "eng, jpn, spa, vie, ger, enm, chi, pol, rus, fre, ita, dut",
+    "available": true
+  },
+  {
+    "serial": "161",
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "languages": "eng, jpn, spa, vie, ger, enm, chi, pol, rus, fre, ita, dut",
+    "available": true
+  },
+  {
+    "serial": "162",
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "languages": "pol, ita, por, eng, und, spa, ger, fre, rus, tam, epo, chi",
+    "available": true
+  },
+  {
+    "serial": "163",
+    "title": "His Last Bow [8 stories]",
+    "author": "Arthur Conan Doyle",
+    "languages": "eng, por, jpn, spa, ger, chi, pol, fre",
+    "available": true
+  },
+  {
+    "serial": "164",
+    "title": "Poirot investigates",
+    "author": "Agatha Christie",
+    "languages": "spa, eng, ita, fre, dut, chi, ger",
+    "available": true
+  },
+  {
+    "serial": "165",
+    "title": "Poirot investigates",
+    "author": "Agatha Christie",
+    "languages": "spa, eng, ita, fre, dut, chi, ger",
+    "available": true
+  },
+  {
+    "serial": "166",
+    "title": "Poirot investigates",
+    "author": "Agatha Christie",
+    "languages": "spa, eng, ita, fre, dut, chi, ger",
+    "available": true
+  },
+  {
+    "serial": "167",
+    "title": "Ivanhoe",
+    "author": "Sir Walter Scott",
+    "languages": "gle, und, eng, vie, ger, rus, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "168",
+    "title": "Ivanhoe",
+    "author": "Sir Walter Scott",
+    "languages": "gle, und, eng, vie, ger, rus, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "169",
+    "title": "Ivanhoe",
+    "author": "Sir Walter Scott",
+    "languages": "gle, und, eng, vie, ger, rus, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "170",
+    "title": "Pickwick Papers",
+    "author": "Charles Dickens, A. G. Eyre, David Foulds, Federigo Verdinois, Pierre Grollier, JUAN DE PASO, José María Valverde Pacheco, Josep Carner",
+    "languages": "pol, eng, ice, dan, mul, ger, ukr, spa, ita, rus, por, dut, fre, chi, swe",
+    "available": true
+  },
+  {
+    "serial": "171",
+    "title": "Pickwick Papers",
+    "author": "Charles Dickens, A. G. Eyre, David Foulds, Federigo Verdinois, Pierre Grollier, JUAN DE PASO, José María Valverde Pacheco, Josep Carner",
+    "languages": "pol, eng, ice, dan, mul, ger, ukr, spa, ita, rus, por, dut, fre, chi, swe",
+    "available": true
+  },
+  {
+    "serial": "172",
+    "title": "The Pearl",
+    "author": "John Steinbeck",
+    "languages": "alb, eng, kor, spa, ger, fre, dut, cat, cpf, ind, pus",
+    "available": true
+  },
+  {
+    "serial": "173",
+    "title": "The Pearl",
+    "author": "John Steinbeck",
+    "languages": "alb, eng, kor, spa, ger, fre, dut, cat, cpf, ind, pus",
+    "available": true
+  },
+  {
+    "serial": "174",
+    "title": "The Marvelous Land of Oz",
+    "author": "L. Frank Baum",
+    "languages": "ara, alb, eng, heb, rus, chi",
+    "available": true
+  },
+  {
+    "serial": "175",
+    "title": "The Marvelous Land of Oz",
+    "author": "L. Frank Baum",
+    "languages": "ara, alb, eng, heb, rus, chi",
+    "available": true
+  },
+  {
+    "serial": "176",
+    "title": "The Marvelous Land of Oz",
+    "author": "L. Frank Baum",
+    "languages": "ara, alb, eng, heb, rus, chi",
+    "available": true
+  },
+  {
+    "serial": "177",
+    "title": "Lady Susan",
+    "author": "Jane Austen",
+    "languages": "pol, eng, ger, por, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "178",
+    "title": "Lady Susan",
+    "author": "Jane Austen",
+    "languages": "pol, eng, ger, por, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "179",
+    "title": "Cranford",
+    "author": "Elizabeth Cleghorn Gaskell",
+    "languages": "spa, fre, eng, fin",
+    "available": true
+  },
+  {
+    "serial": "180",
+    "title": "Cranford",
+    "author": "Elizabeth Cleghorn Gaskell",
+    "languages": "spa, fre, eng, fin",
+    "available": true
+  },
+  {
+    "serial": "181",
+    "title": "Cranford",
+    "author": "Elizabeth Cleghorn Gaskell",
+    "languages": "spa, fre, eng, fin",
+    "available": true
+  },
+  {
+    "serial": "182",
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "languages": "spa, rus, ger, eng, vie, alb, ita, jpn, ukr, fin, fre, mon, dan, chi, yid, per, may",
+    "available": true
+  },
+  {
+    "serial": "183",
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "languages": "spa, rus, ger, eng, vie, alb, ita, jpn, ukr, fin, fre, mon, dan, chi, yid, per, may",
+    "available": true
+  },
+  {
+    "serial": "184",
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "languages": "ita, eng, spa, dut, rus, por, ger, fre, chi, ara",
+    "available": true
+  },
+  {
+    "serial": "185",
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "languages": "ita, eng, spa, dut, rus, por, ger, fre, chi, ara",
+    "available": true
+  },
+  {
+    "serial": "186",
+    "title": "Good wives",
+    "author": "Louisa May Alcott",
+    "languages": "eng, chi",
+    "available": true
+  },
+  {
+    "serial": "187",
+    "title": "Good wives",
+    "author": "Louisa May Alcott",
+    "languages": "eng, chi",
+    "available": true
+  },
+  {
+    "serial": "188",
+    "title": "Good wives",
+    "author": "Louisa May Alcott",
+    "languages": "eng, chi",
+    "available": true
+  },
+  {
+    "serial": "189",
+    "title": "Whose Body?",
+    "author": "Dorothy L. Sayers",
+    "languages": "ger, rus, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "190",
+    "title": "Мы",
+    "author": "Евгений Иванович Замятин, Gary Kern, Alejandro Ariel González, Tavo Montañez, Sergio Hernández-Ranera Sánchez, Zilboorg Gregory, Alexander Glinka",
+    "languages": "pol, eng, est, spa, rus, srp, chi",
+    "available": true
+  },
+  {
+    "serial": "191",
+    "title": "Мы",
+    "author": "Евгений Иванович Замятин, Gary Kern, Alejandro Ariel González, Tavo Montañez, Sergio Hernández-Ranera Sánchez, Zilboorg Gregory, Alexander Glinka",
+    "languages": "pol, eng, est, spa, rus, srp, chi",
+    "available": true
+  },
+  {
+    "serial": "192",
+    "title": "4:50 from Paddington",
+    "author": "Agatha Christie",
+    "languages": "ita, eng, vie, ara, spa, dut, rus, ger, fre, chi, hun, pol, hin",
+    "available": true
+  },
+  {
+    "serial": "193",
+    "title": "4:50 from Paddington",
+    "author": "Agatha Christie",
+    "languages": "ita, eng, vie, ara, spa, dut, rus, ger, fre, chi, hun, pol, hin",
+    "available": true
+  },
+  {
+    "serial": "194",
+    "title": "4:50 from Paddington",
+    "author": "Agatha Christie",
+    "languages": "ita, eng, vie, ara, spa, dut, rus, ger, fre, chi, hun, pol, hin",
+    "available": true
+  },
+  {
+    "serial": "195",
+    "title": "The Murders in the Rue Morgue",
+    "author": "Edgar Allan Poe",
+    "languages": "spa, eng, jpn, fre, epo, por",
+    "available": true
+  },
+  {
+    "serial": "196",
+    "title": "The Murders in the Rue Morgue",
+    "author": "Edgar Allan Poe",
+    "languages": "spa, eng, jpn, fre, epo, por",
+    "available": true
+  },
+  {
+    "serial": "197",
+    "title": "The Murders in the Rue Morgue",
+    "author": "Edgar Allan Poe",
+    "languages": "spa, eng, jpn, fre, epo, por",
+    "available": true
+  },
+  {
+    "serial": "198",
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "languages": "eng, por, cze, spa, ger, chi, pol, fre, hin",
+    "available": true
+  },
+  {
+    "serial": "199",
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "languages": "eng, por, cze, spa, ger, chi, pol, fre, hin",
+    "available": true
+  },
+  {
+    "serial": "200",
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "languages": "eng, por, cze, spa, ger, chi, pol, fre, hin",
+    "available": true
+  },
+  {
+    "serial": "201",
+    "title": "Curtain",
+    "author": "Agatha Christie",
+    "languages": "gre, spa, rus, eng, vie, jpn, fre, chi, ger, pol, por",
+    "available": true
+  },
+  {
+    "serial": "202",
+    "title": "Curtain",
+    "author": "Agatha Christie",
+    "languages": "gre, spa, rus, eng, vie, jpn, fre, chi, ger, pol, por",
+    "available": true
+  },
+  {
+    "serial": "203",
+    "title": "Curtain",
+    "author": "Agatha Christie",
+    "languages": "gre, spa, rus, eng, vie, jpn, fre, chi, ger, pol, por",
+    "available": true
+  },
+  {
+    "serial": "204",
+    "title": "Genji monogatari",
+    "author": "Murasaki Shikibu",
+    "languages": "eng, ger, rus, jpn, fre, chi, pan",
+    "available": true
+  },
+  {
+    "serial": "205",
+    "title": "Genji monogatari",
+    "author": "Murasaki Shikibu",
+    "languages": "eng, ger, rus, jpn, fre, chi, pan",
+    "available": true
+  },
+  {
+    "serial": "206",
+    "title": "Genji monogatari",
+    "author": "Murasaki Shikibu",
+    "languages": "eng, ger, rus, jpn, fre, chi, pan",
+    "available": true
+  },
+  {
+    "serial": "207",
+    "title": "They Do It with Mirrors",
+    "author": "Agatha Christie",
+    "languages": "ita, eng, ara, heb, spa, fre, ger, pol, chi",
+    "available": true
+  },
+  {
+    "serial": "208",
+    "title": "They Do It with Mirrors",
+    "author": "Agatha Christie",
+    "languages": "ita, eng, ara, heb, spa, fre, ger, pol, chi",
+    "available": true
+  },
+  {
+    "serial": "209",
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "languages": "dut, ger, eng, rus, spa, heb, pol",
+    "available": true
+  },
+  {
+    "serial": "301",
+    "title": "Lilith",
+    "author": "George MacDonald",
+    "languages": "ger, eng, ita",
+    "available": true
+  },
+  {
+    "serial": "302",
+    "title": "El túnel",
+    "author": "Ernesto Sabato",
+    "languages": "por, swe, tur, est, alb, spa, dut, ara, rum, lav, eng, arm, per, hrv, fre, baq, srp, gre, pol, fin, ita, ger, nor, mac, geo",
+    "available": true
+  },
+  {
+    "serial": "303",
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "languages": "ita, alb, eng, und, spa, ger, fre, guj, per, jpn, dut, cze, chi",
+    "available": true
+  },
+  {
+    "serial": "304",
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "languages": "ita, alb, eng, und, spa, ger, fre, guj, per, jpn, dut, cze, chi",
+    "available": true
+  },
+  {
+    "serial": "305",
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "languages": "ita, alb, eng, und, spa, ger, fre, guj, per, jpn, dut, cze, chi",
+    "available": true
+  },
+  {
+    "serial": "306",
+    "title": "Guess How Much I Love You",
+    "author": "Sam McBratney, Anita Jeram",
+    "languages": "gem, rus, chi, dut, mul, spa, gla, ger, wel, eng, gle, glg, kor, fre",
+    "available": true
+  },
+  {
+    "serial": "307",
+    "title": "Guess How Much I Love You",
+    "author": "Sam McBratney, Anita Jeram",
+    "languages": "gem, rus, chi, dut, mul, spa, gla, ger, wel, eng, gle, glg, kor, fre",
+    "available": true
+  },
+  {
+    "serial": "308",
+    "title": "Anna Karenina",
+    "author": "Лев Толстой",
+    "languages": "ukr, tur, rus, spa, fre, yid, dan, ger, arm, dut, pan, pol, und, por, gre, eng, ita, jpn, chi, cat",
+    "available": true
+  },
+  {
+    "serial": "309",
+    "title": "Anna Karenina",
+    "author": "Лев Толстой",
+    "languages": "ukr, tur, rus, spa, fre, yid, dan, ger, arm, dut, pan, pol, und, por, gre, eng, ita, jpn, chi, cat",
+    "available": true
+  },
+  {
+    "serial": "310",
+    "title": "Anna Karenina",
+    "author": "Лев Толстой",
+    "languages": "ukr, tur, rus, spa, fre, yid, dan, ger, arm, dut, pan, pol, und, por, gre, eng, ita, jpn, chi, cat",
+    "available": true
+  },
+  {
+    "serial": "311",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "languages": "hin, ita, cat, kor, ger, gle, por, cze, heb, dut, chi, pol, eng, jpn, fre, ara, may, spa, fin",
+    "available": true
+  },
+  {
+    "serial": "312",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "languages": "hin, ita, cat, kor, ger, gle, por, cze, heb, dut, chi, pol, eng, jpn, fre, ara, may, spa, fin",
+    "available": true
+  },
+  {
+    "serial": "313",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "languages": "hin, ita, cat, kor, ger, gle, por, cze, heb, dut, chi, pol, eng, jpn, fre, ara, may, spa, fin",
+    "available": true
+  },
+  {
+    "serial": "314",
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "languages": "glg, rus, wel, ita, kor, ger, gle, por, und, dut, epo, chi, pol, eng, jpn, ukr, fre, spa, fin",
+    "available": true
+  },
+  {
+    "serial": "315",
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "languages": "glg, rus, wel, ita, kor, ger, gle, por, und, dut, epo, chi, pol, eng, jpn, ukr, fre, spa, fin",
+    "available": true
+  },
+  {
+    "serial": "316",
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "languages": "per, mon, mul, rus, spa, fre, ger, arm, dut, hun, pol, und, cze, rum, por, hrv, lav, fin, swe, eng, ara, kor, ita, jpn, chi, mal",
+    "available": true
+  },
+  {
+    "serial": "317",
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "languages": "per, mon, mul, rus, spa, fre, ger, arm, dut, hun, pol, und, cze, rum, por, hrv, lav, fin, swe, eng, ara, kor, ita, jpn, chi, mal",
+    "available": true
+  },
+  {
+    "serial": "318",
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "languages": "ara, ita, eng, kor, spa, ger, nor, dut, mar, pol, vie, fre, tuk, guj, hrv, jpn, urd, ben, por, fin, ukr, dan, heb, tur, sin, tib, afr, cat, arm, mul, ice, gre, hun, rus, srp, wel, chi, hin",
+    "available": true
+  },
+  {
+    "serial": "319",
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "languages": "ara, ita, eng, kor, spa, ger, nor, dut, mar, pol, vie, fre, tuk, guj, hrv, jpn, urd, ben, por, fin, ukr, dan, heb, tur, sin, tib, afr, cat, arm, mul, ice, gre, hun, rus, srp, wel, chi, hin",
+    "available": true
+  },
+  {
+    "serial": "320",
+    "title": "Jude the Obscure",
+    "author": "Thomas Hardy",
+    "languages": "eng, spa, chi, ger, rus, fre, ita, kor",
+    "available": true
+  },
+  {
+    "serial": "321",
+    "title": "Le Deuxième Sexe",
+    "author": "Simone de Beauvoir",
+    "languages": "eng, spa, ger, fre, rus",
+    "available": true
+  },
+  {
+    "serial": "322",
+    "title": "Le Deuxième Sexe",
+    "author": "Simone de Beauvoir",
+    "languages": "eng, spa, ger, fre, rus",
+    "available": true
+  },
+  {
+    "serial": "323",
+    "title": "Le Deuxième Sexe",
+    "author": "Simone de Beauvoir",
+    "languages": "eng, spa, ger, fre, rus",
+    "available": true
+  },
+  {
+    "serial": "324",
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari, Daniel Casanave, David Vandermeulen, Pierre-Emmanuel Dauzat, Joandomènec Ros i Aragonès, Andoni Sagarna, Xabier Kintana, David Casanave",
+    "languages": "pol, urd, eng, rum, hrv, ger, kor, tur, ita, por, jpn, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "325",
+    "title": "Tales from Shakespeare [20 tales]",
+    "author": "Charles Lamb, Mary Lamb",
+    "languages": "urd, eng, san, mar, uig, yid, dut, chi, ben",
+    "available": true
+  },
+  {
+    "serial": "326",
+    "title": "Tales from Shakespeare [20 tales]",
+    "author": "Charles Lamb, Mary Lamb",
+    "languages": "urd, eng, san, mar, uig, yid, dut, chi, ben",
+    "available": true
+  },
+  {
+    "serial": "327",
+    "title": "Tales from Shakespeare [20 tales]",
+    "author": "Charles Lamb, Mary Lamb",
+    "languages": "urd, eng, san, mar, uig, yid, dut, chi, ben",
+    "available": true
+  },
+  {
+    "serial": "328",
+    "title": "The Hunting of the Snark",
+    "author": "Lewis Carroll",
+    "languages": "eng, spa, mul, rus, fre",
+    "available": true
+  },
+  {
+    "serial": "329",
+    "title": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "languages": "eng, spa, chi, ita, und, rus, fre, heb",
+    "available": true
+  },
+  {
+    "serial": "330",
+    "title": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "languages": "eng, spa, chi, ita, und, rus, fre, heb",
+    "available": true
+  },
+  {
+    "serial": "331",
+    "title": "The Phantom Tollbooth",
+    "author": "Norton Juster",
+    "languages": "eng, spa, chi, ita, und, rus, fre, heb",
+    "available": true
+  },
+  {
+    "serial": "332",
+    "title": "The Tommyknockers",
+    "author": "Stephen King",
+    "languages": "pol, ita, eng, spa, ger, fre, rus",
+    "available": true
+  },
+  {
+    "serial": "333",
+    "title": "Biology",
+    "author": "Neil Alexander Campbell",
+    "languages": "eng, fre, spa",
+    "available": true
+  },
+  {
+    "serial": "334",
+    "title": "Alive!",
+    "author": "Piers Paul Read",
+    "languages": "spa, chi, eng, und, ger, fre",
+    "available": true
+  },
+  {
+    "serial": "335",
+    "title": "The History of Rasselas, Prince of Abyssinia",
+    "author": "Samuel Johnson, Warren L. Fleischauer, Félix Paknadel, Octavie Belot, James MacAulay",
+    "languages": "spa, eng, ita, fre, dut, mal, ara, mul",
+    "available": true
+  },
+  {
+    "serial": "336",
+    "title": "The History of Rasselas, Prince of Abyssinia",
+    "author": "Samuel Johnson, Warren L. Fleischauer, Félix Paknadel, Octavie Belot, James MacAulay",
+    "languages": "spa, eng, ita, fre, dut, mal, ara, mul",
+    "available": true
+  },
+  {
+    "serial": "337",
+    "title": "Danse Macabre",
+    "author": "Stephen King",
+    "languages": "rus, eng, ita, jpn, und, ger, pol, hun",
+    "available": true
+  },
+  {
+    "serial": "338",
+    "title": "Danse Macabre",
+    "author": "Stephen King",
+    "languages": "rus, eng, ita, jpn, und, ger, pol, hun",
+    "available": true
+  },
+  {
+    "serial": "339",
+    "title": "Danse Macabre",
+    "author": "Stephen King",
+    "languages": "rus, eng, ita, jpn, und, ger, pol, hun",
+    "available": true
+  },
+  {
+    "serial": "340",
+    "title": "الروض العاطر في نزهة الخاطر",
+    "author": "ʻUmar ibn Muḥammad Nafzāwī, Intro. by  Franklin  S. Kalf, Jan Hutchinson, Kirsty McKenzie, Ken Brass",
+    "languages": "ger, ara, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "341",
+    "title": "The Return of Tarzan",
+    "author": "Edgar Rice Burroughs",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "342",
+    "title": "The Return of Tarzan",
+    "author": "Edgar Rice Burroughs",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "343",
+    "title": "The Return of Tarzan",
+    "author": "Edgar Rice Burroughs",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "344",
+    "title": "Rotkäppchen",
+    "author": "Charles Perrault, Brothers Grimm",
+    "languages": "spa, ger, fre, eng",
+    "available": true
+  },
+  {
+    "serial": "345",
+    "title": "Rotkäppchen",
+    "author": "Charles Perrault, Brothers Grimm",
+    "languages": "spa, ger, fre, eng",
+    "available": true
+  },
+  {
+    "serial": "346",
+    "title": "Rotkäppchen",
+    "author": "Charles Perrault, Brothers Grimm",
+    "languages": "spa, ger, fre, eng",
+    "available": true
+  },
+  {
+    "serial": "347",
+    "title": "The selfish gene",
+    "author": "Richard Dawkins, Lalla Ward Richard Dawkins",
+    "languages": "eng, pol, ara, fre, tur, ger, kor, dut, spa",
+    "available": true
+  },
+  {
+    "serial": "348",
+    "title": "The White Dragon",
+    "author": "Anne McCaffrey",
+    "languages": "ita, ger, eng, dut, fre",
+    "available": true
+  },
+  {
+    "serial": "349",
+    "title": "Salammbô",
+    "author": "Gustave Flaubert",
+    "languages": "spa, rus, eng, cze, ita, heb, fre, dut, ger",
+    "available": true
+  },
+  {
+    "serial": "350",
+    "title": "Salammbô",
+    "author": "Gustave Flaubert",
+    "languages": "spa, rus, eng, cze, ita, heb, fre, dut, ger",
+    "available": true
+  },
+  {
+    "serial": "351",
+    "title": "La vérité sur l'affaire Harry Quebert",
+    "author": "Joël Dicker",
+    "languages": "fre, eng, dut, gre, ita, ger, por",
+    "available": true
+  },
+  {
+    "serial": "352",
+    "title": "La vérité sur l'affaire Harry Quebert",
+    "author": "Joël Dicker",
+    "languages": "fre, eng, dut, gre, ita, ger, por",
+    "available": true
+  },
+  {
+    "serial": "353",
+    "title": "The illustrated naked ape",
+    "author": "Desmond Morris",
+    "languages": "ger, fre, eng, spa",
+    "available": true
+  },
+  {
+    "serial": "354",
+    "title": "The illustrated naked ape",
+    "author": "Desmond Morris",
+    "languages": "ger, fre, eng, spa",
+    "available": true
+  },
+  {
+    "serial": "355",
+    "title": "The illustrated naked ape",
+    "author": "Desmond Morris",
+    "languages": "ger, fre, eng, spa",
+    "available": true
+  },
+  {
+    "serial": "356",
+    "title": "Hillbilly Elegy",
+    "author": "J. D. Vance",
+    "languages": "spa, ger, eng, chi",
+    "available": true
+  },
+  {
+    "serial": "357",
+    "title": "Hillbilly Elegy",
+    "author": "J. D. Vance",
+    "languages": "spa, ger, eng, chi",
+    "available": true
+  },
+  {
+    "serial": "358",
+    "title": "My Teacher Is an Alien",
+    "author": "Bruce Coville",
+    "languages": "fre, eng",
+    "available": true
+  },
+  {
+    "serial": "359",
+    "title": "My Teacher Is an Alien",
+    "author": "Bruce Coville",
+    "languages": "fre, eng",
+    "available": true
+  },
+  {
+    "serial": "360",
+    "title": "Chinese Cinderella",
+    "author": "Adeline Yen Mah",
+    "languages": "por, fre, eng",
+    "available": true
+  },
+  {
+    "serial": "361",
+    "title": "Chinese Cinderella",
+    "author": "Adeline Yen Mah",
+    "languages": "por, fre, eng",
+    "available": true
+  },
+  {
+    "serial": "362",
+    "title": "Oh, the Places You'll Go!",
+    "author": "Dr. Seuss",
+    "languages": "eng, lat, ice, spa, heb",
+    "available": true
+  },
+  {
+    "serial": "363",
+    "title": "Oh, the Places You'll Go!",
+    "author": "Dr. Seuss",
+    "languages": "eng, lat, ice, spa, heb",
+    "available": true
+  },
+  {
+    "serial": "364",
+    "title": "His Dark Materials",
+    "author": "Philip Pullman",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "365",
+    "title": "The Beasts of Tarzan",
+    "author": "Edgar Rice Burroughs",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "366",
+    "title": "The Beasts of Tarzan",
+    "author": "Edgar Rice Burroughs",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "367",
+    "title": "Evicted",
+    "author": "Matthew Desmond, Enrique Maldonado Roldn",
+    "languages": "chi, ger, eng",
+    "available": true
+  },
+  {
+    "serial": "368",
+    "title": "Evicted",
+    "author": "Matthew Desmond, Enrique Maldonado Roldn",
+    "languages": "chi, ger, eng",
+    "available": true
+  },
+  {
+    "serial": "369",
+    "title": "Down Under (In a Sunburned Country)",
+    "author": "Bill Bryson",
+    "languages": "ger, eng, rum, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "370",
+    "title": "Down Under (In a Sunburned Country)",
+    "author": "Bill Bryson",
+    "languages": "ger, eng, rum, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "371",
+    "title": "Down Under (In a Sunburned Country)",
+    "author": "Bill Bryson",
+    "languages": "ger, eng, rum, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "372",
+    "title": "Everything is F*cked",
+    "author": "Mark Manson, Carlos Ramos Malavé",
+    "languages": "spa, eng",
+    "available": true
+  },
+  {
+    "serial": "373",
+    "title": "Everything is F*cked",
+    "author": "Mark Manson, Carlos Ramos Malavé",
+    "languages": "spa, eng",
+    "available": true
+  },
+  {
+    "serial": "374",
+    "title": "Everything is F*cked",
+    "author": "Mark Manson, Carlos Ramos Malavé",
+    "languages": "spa, eng",
+    "available": true
+  },
+  {
+    "serial": "375",
+    "title": "Advanced Engineering Mathematics",
+    "author": "Erwin Kreyszig",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "376",
+    "title": "Advanced Engineering Mathematics",
+    "author": "Erwin Kreyszig",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "377",
+    "title": "Body Language",
+    "author": "Julius Fast",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "378",
+    "title": "Body Language",
+    "author": "Julius Fast",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "379",
+    "title": "The lives of the XII. Cæsars",
+    "author": "Suetonius, R. E. J. Fitzpatrick",
+    "languages": "ita, eng, lat, fre, rus, mul",
+    "available": true
+  },
+  {
+    "serial": "380",
+    "title": "The lives of the XII. Cæsars",
+    "author": "Suetonius, R. E. J. Fitzpatrick",
+    "languages": "ita, eng, lat, fre, rus, mul",
+    "available": true
+  },
+  {
+    "serial": "381",
+    "title": "The lives of the XII. Cæsars",
+    "author": "Suetonius, R. E. J. Fitzpatrick",
+    "languages": "ita, eng, lat, fre, rus, mul",
+    "available": true
+  },
+  {
+    "serial": "382",
+    "title": "Carry on, Mr. Bowditch",
+    "author": "Jean Lee Latham",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "383",
+    "title": "Carry on, Mr. Bowditch",
+    "author": "Jean Lee Latham",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "384",
+    "title": "Carry on, Mr. Bowditch",
+    "author": "Jean Lee Latham",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "385",
+    "title": "Why I'm No Longer Talking to White People About Race",
+    "author": "Reni Eddo-Lodge, Ana Camallonga",
+    "languages": "dut, eng",
+    "available": true
+  },
+  {
+    "serial": "386",
+    "title": "Motivation and goal-setting",
+    "author": "Jim Cairo, Inc. National Press Publications",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "387",
+    "title": "Eats, Shoots & Leaves",
+    "author": "Lynne Truss",
+    "languages": "eng, chi",
+    "available": true
+  },
+  {
+    "serial": "388",
+    "title": "Hyperbole and a Half",
+    "author": "Allie Brosh",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "389",
+    "title": "Spoon River Anthology",
+    "author": "Edgar Lee Masters, Beatriz Martín Vidal, Mario Giacomelli, Patrick Reumaux",
+    "languages": "eng, fre, ita, spa",
+    "available": true
+  },
+  {
+    "serial": "390",
+    "title": "Spoon River Anthology",
+    "author": "Edgar Lee Masters, Beatriz Martín Vidal, Mario Giacomelli, Patrick Reumaux",
+    "languages": "eng, fre, ita, spa",
+    "available": true
+  },
+  {
+    "serial": "391",
+    "title": "The Magic School Bus",
+    "author": "Joanna Cole",
+    "languages": "spa, ita, chi, eng, gre, fre",
+    "available": true
+  },
+  {
+    "serial": "392",
+    "title": "The Magic School Bus",
+    "author": "Joanna Cole",
+    "languages": "spa, ita, chi, eng, gre, fre",
+    "available": true
+  },
+  {
+    "serial": "393",
+    "title": "Effi Briest",
+    "author": "Theodor Fontane",
+    "languages": "ger, dut, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "394",
+    "title": "Effi Briest",
+    "author": "Theodor Fontane",
+    "languages": "ger, dut, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "395",
+    "title": "Effi Briest",
+    "author": "Theodor Fontane",
+    "languages": "ger, dut, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "396",
+    "title": "The Visitor",
+    "author": "Katherine Applegate",
+    "languages": "ita, vie, eng, spa, ger, fre",
+    "available": true
+  },
+  {
+    "serial": "397",
+    "title": "The Visitor",
+    "author": "Katherine Applegate",
+    "languages": "ita, vie, eng, spa, ger, fre",
+    "available": true
+  },
+  {
+    "serial": "398",
+    "title": "The Visitor",
+    "author": "Katherine Applegate",
+    "languages": "ita, vie, eng, spa, ger, fre",
+    "available": true
+  },
+  {
+    "serial": "399",
+    "title": "The Ipcress File",
+    "author": "Len Deighton",
+    "languages": "ita, chi, ger, fre, eng",
+    "available": true
+  },
+  {
+    "serial": "400",
+    "title": "The Ipcress File",
+    "author": "Len Deighton",
+    "languages": "ita, chi, ger, fre, eng",
+    "available": true
+  },
+  {
+    "serial": "401",
+    "title": "Riddley Walker",
+    "author": "Russell Hoban",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "402",
+    "title": "Riddley Walker",
+    "author": "Russell Hoban",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "403",
+    "title": "Mike Mulligan and His Steam Shovel",
+    "author": "Virginia Lee Burton",
+    "languages": "swe, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "404",
+    "title": "Mike Mulligan and His Steam Shovel",
+    "author": "Virginia Lee Burton",
+    "languages": "swe, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "405",
+    "title": "Mike Mulligan and His Steam Shovel",
+    "author": "Virginia Lee Burton",
+    "languages": "swe, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "406",
+    "title": "Egmont",
+    "author": "Johann Wolfgang von Goethe",
+    "languages": "eng, mul, roh, ger",
+    "available": true
+  },
+  {
+    "serial": "407",
+    "title": "Egmont",
+    "author": "Johann Wolfgang von Goethe",
+    "languages": "eng, mul, roh, ger",
+    "available": true
+  },
+  {
+    "serial": "408",
+    "title": "The emperor's new clothes",
+    "author": "Hans Christian Andersen, Ève Tharlet, Jeffrey Stewart Timmins, Stephanie True Peters",
+    "languages": "eng, kor, spa",
+    "available": true
+  },
+  {
+    "serial": "409",
+    "title": "Death in the afternoon",
+    "author": "Ernest Hemingway",
+    "languages": "ita, eng",
+    "available": true
+  },
+  {
+    "serial": "410",
+    "title": "Freshwater",
+    "author": "Akwaeke Emezi",
+    "languages": "eng, cat",
+    "available": true
+  },
+  {
+    "serial": "411",
+    "title": "Freshwater",
+    "author": "Akwaeke Emezi",
+    "languages": "eng, cat",
+    "available": true
+  },
+  {
+    "serial": "412",
+    "title": "Freshwater",
+    "author": "Akwaeke Emezi",
+    "languages": "eng, cat",
+    "available": true
+  },
+  {
+    "serial": "413",
+    "title": "Deep Blue",
+    "author": "Jennifer Donnelly, Bea Miller",
+    "languages": "pol, eng",
+    "available": true
+  },
+  {
+    "serial": "414",
+    "title": "The cocktail party",
+    "author": "T. S. Eliot",
+    "languages": "spa, eng, ger",
+    "available": true
+  },
+  {
+    "serial": "415",
+    "title": "The cocktail party",
+    "author": "T. S. Eliot",
+    "languages": "spa, eng, ger",
+    "available": true
+  },
+  {
+    "serial": "416",
+    "title": "The One Plus One",
+    "author": "Jojo Moyes",
+    "languages": "swe, ger, eng, pol, tur, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "417",
+    "title": "The One Plus One",
+    "author": "Jojo Moyes",
+    "languages": "swe, ger, eng, pol, tur, spa, fre",
+    "available": true
+  },
+  {
+    "serial": "418",
+    "title": "Night Watch",
+    "author": "Sarah Waters",
+    "languages": "chi, und, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "419",
+    "title": "Night Watch",
+    "author": "Sarah Waters",
+    "languages": "chi, und, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "420",
+    "title": "The Life of Our Lord",
+    "author": "Charles Dickens, Workman Family Classics, B. McCahill",
+    "languages": "fre, eng, epo",
+    "available": true
+  },
+  {
+    "serial": "421",
+    "title": "The Son of Tarzan",
+    "author": "Edgar Rice Burroughs",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "422",
+    "title": "Good dog, Carl",
+    "author": "Alexandra Day",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "423",
+    "title": "A dark-adapted eye",
+    "author": "Ruth Rendell, Harriet Walter, Richard Bravery",
+    "languages": "eng, und, fre, tur, ger",
+    "available": true
+  },
+  {
+    "serial": "424",
+    "title": "Rumpelstiltskin",
+    "author": "Brothers Grimm, B. Watts, Jacob Grimm",
+    "languages": "und, spa, eng",
+    "available": true
+  },
+  {
+    "serial": "425",
+    "title": "The Age of Arthur",
+    "author": "John Morris",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "426",
+    "title": "Tarzan and the Jewels of Opar",
+    "author": "Edgar Rice Burroughs",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "427",
+    "title": "On the stairs",
+    "author": "Julie Hofstrand Larios, Mary Hofstrand",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "428",
+    "title": "O Christos xanastavronetai",
+    "author": "Nikos Kazantzakis",
+    "languages": "eng, gre, spa, ger, dan, pol, und, fre, kor",
+    "available": true
+  },
+  {
+    "serial": "429",
+    "title": "O Christos xanastavronetai",
+    "author": "Nikos Kazantzakis",
+    "languages": "eng, gre, spa, ger, dan, pol, und, fre, kor",
+    "available": true
+  },
+  {
+    "serial": "430",
+    "title": "A Theory of Everything",
+    "author": "Ken Wilber",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "431",
+    "title": "A Theory of Everything",
+    "author": "Ken Wilber",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "432",
+    "title": "The Mystery of the Periodic Table",
+    "author": "Benjamin D. Wiker, Benjamin Wiker, Jeanne Bendick",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "433",
+    "title": "The Last Honest Woman",
+    "author": "Nora Roberts",
+    "languages": "und, rus, eng",
+    "available": true
+  },
+  {
+    "serial": "434",
+    "title": "The Last Honest Woman",
+    "author": "Nora Roberts",
+    "languages": "und, rus, eng",
+    "available": true
+  },
+  {
+    "serial": "435",
+    "title": "The Last Honest Woman",
+    "author": "Nora Roberts",
+    "languages": "und, rus, eng",
+    "available": true
+  },
+  {
+    "serial": "436",
+    "title": "Where Did I Come From?",
+    "author": "Peter Mayle",
+    "languages": "eng, dan",
+    "available": true
+  },
+  {
+    "serial": "437",
+    "title": "Cat and a Dog",
+    "author": "Claire Masurel, Bob Kolar",
+    "languages": "fre, ger, ita, eng, spa",
+    "available": true
+  },
+  {
+    "serial": "438",
+    "title": "Actual Size",
+    "author": "Steve Jenkins",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "439",
+    "title": "Actual Size",
+    "author": "Steve Jenkins",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "440",
+    "title": "Los templarios",
+    "author": "Piers Paul Read",
+    "languages": "und, eng, spa, swe",
+    "available": true
+  },
+  {
+    "serial": "441",
+    "title": "Los templarios",
+    "author": "Piers Paul Read",
+    "languages": "und, eng, spa, swe",
+    "available": true
+  },
+  {
+    "serial": "442",
+    "title": "Los templarios",
+    "author": "Piers Paul Read",
+    "languages": "und, eng, spa, swe",
+    "available": true
+  },
+  {
+    "serial": "443",
+    "title": "The portable Dorothy Parker",
+    "author": "Dorothy Parker, Brendan Gill",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "444",
+    "title": "The portable Dorothy Parker",
+    "author": "Dorothy Parker, Brendan Gill",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "445",
+    "title": "The portable Dorothy Parker",
+    "author": "Dorothy Parker, Brendan Gill",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "446",
+    "title": "70 Motivasi Kehidupan",
+    "author": "Fuad Sam, Norazizah Abdul Rahman, Noor Ashikin Mohd Yusop",
+    "languages": "may",
+    "available": true
+  },
+  {
+    "serial": "447",
+    "title": "Finding Winnie",
+    "author": "Lindsay Mattick",
+    "languages": "eng, spa, chi",
+    "available": true
+  },
+  {
+    "serial": "448",
+    "title": "The Naming of the Dead (An Inspector Rebus)",
+    "author": "Ian Rankin",
+    "languages": "swe, eng, fre",
+    "available": true
+  },
+  {
+    "serial": "449",
+    "title": "Mrs. Mike",
+    "author": "Benedict Freedman, Nancy Freedman",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "450",
+    "title": "Mrs. Mike",
+    "author": "Benedict Freedman, Nancy Freedman",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "451",
+    "title": "QUEEN OF SORCERY (Eddings, David. , the Belgariad, Bk. 2.)",
+    "author": "David Eddings",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "452",
+    "title": "Java Concurrency in Practice",
+    "author": "Brian Goetz, Joshua Bloch, Joseph Bowbeer, Doug Lea, David Holmes, Tim Peierls",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "453",
+    "title": "Java Concurrency in Practice",
+    "author": "Brian Goetz, Joshua Bloch, Joseph Bowbeer, Doug Lea, David Holmes, Tim Peierls",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "454",
+    "title": "Between Two Kingdoms",
+    "author": "Suleika Jaouad",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "455",
+    "title": "Between Two Kingdoms",
+    "author": "Suleika Jaouad",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "456",
+    "title": "The Rogue Knight",
+    "author": "Brandon Mull",
+    "languages": "pol",
+    "available": true
+  },
+  {
+    "serial": "457",
+    "title": "The Rogue Knight",
+    "author": "Brandon Mull",
+    "languages": "pol",
+    "available": true
+  },
+  {
+    "serial": "458",
+    "title": "The Rogue Knight",
+    "author": "Brandon Mull",
+    "languages": "pol",
+    "available": true
+  },
+  {
+    "serial": "459",
+    "title": "Treason's Harbour",
+    "author": "Patrick O'Brian",
+    "languages": "eng, pol",
+    "available": true
+  },
+  {
+    "serial": "460",
+    "title": "The View from the Cherry Tree",
+    "author": "Willo Davis Roberts",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "461",
+    "title": "Frozen in time",
+    "author": "Owen Beattie, O. Beattie, J. Geiger, John Geiger",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "462",
+    "title": "Frozen in time",
+    "author": "Owen Beattie, O. Beattie, J. Geiger, John Geiger",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "463",
+    "title": "Frozen in time",
+    "author": "Owen Beattie, O. Beattie, J. Geiger, John Geiger",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "464",
+    "title": "The ship who searched",
+    "author": "Anne McCaffrey, Mercedes Lackey",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "465",
+    "title": "National Velvet",
+    "author": "Bagnold, Enid.",
+    "languages": "und, eng",
+    "available": true
+  },
+  {
+    "serial": "466",
+    "title": "National Velvet",
+    "author": "Bagnold, Enid.",
+    "languages": "und, eng",
+    "available": true
+  },
+  {
+    "serial": "467",
+    "title": "National Velvet",
+    "author": "Bagnold, Enid.",
+    "languages": "und, eng",
+    "available": true
+  },
+  {
+    "serial": "468",
+    "title": "Europe since 1870",
+    "author": "James Joll",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "469",
+    "title": "Europe since 1870",
+    "author": "James Joll",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "470",
+    "title": "A Gathering of Days",
+    "author": "Joan W. Blos",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "471",
+    "title": "A Gathering of Days",
+    "author": "Joan W. Blos",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "472",
+    "title": "A Gathering of Days",
+    "author": "Joan W. Blos",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "473",
+    "title": "Sirah Nabawiyah",
+    "author": "Dr.Muhammad Sa'id Ramadhan Al-Buthy",
+    "languages": "may",
+    "available": true
+  },
+  {
+    "serial": "474",
+    "title": "Sirah Nabawiyah",
+    "author": "Dr.Muhammad Sa'id Ramadhan Al-Buthy",
+    "languages": "may",
+    "available": true
+  },
+  {
+    "serial": "475",
+    "title": "Lawless",
+    "author": "Nora Roberts",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "476",
+    "title": "A concise history of the Russian Revolution",
+    "author": "Richard Pipes",
+    "languages": "eng, swe",
+    "available": true
+  },
+  {
+    "serial": "477",
+    "title": "A concise history of the Russian Revolution",
+    "author": "Richard Pipes",
+    "languages": "eng, swe",
+    "available": true
+  },
+  {
+    "serial": "478",
+    "title": "La Dorotea",
+    "author": "Lope de Vega",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "479",
+    "title": "La Dorotea",
+    "author": "Lope de Vega",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "480",
+    "title": "La Dorotea",
+    "author": "Lope de Vega",
+    "languages": "eng, spa",
+    "available": true
+  },
+  {
+    "serial": "481",
+    "title": "A survey of mathematics with applications",
+    "author": "Allen R. Angel, Christine D. Abbott, Dennis Runde",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "482",
+    "title": "A survey of mathematics with applications",
+    "author": "Allen R. Angel, Christine D. Abbott, Dennis Runde",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "483",
+    "title": "A survey of mathematics with applications",
+    "author": "Allen R. Angel, Christine D. Abbott, Dennis Runde",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "484",
+    "title": "The Sea For Breakfast",
+    "author": "Lillian Beckwith",
+    "languages": "ger, eng",
+    "available": true
+  },
+  {
+    "serial": "485",
+    "title": "Dragons of Autumn Twilight",
+    "author": "Margaret Weis, Tracy Hickman",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "486",
+    "title": "Dragons of Autumn Twilight",
+    "author": "Margaret Weis, Tracy Hickman",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "487",
+    "title": "Dragons of Autumn Twilight",
+    "author": "Margaret Weis, Tracy Hickman",
+    "languages": "eng",
+    "available": true
+  },
+  {
+    "serial": "488",
+    "title": "Bu mu'yuk jloktor",
+    "author": "David Werner, Carol Thuman, Jane Maxwell, Andrew Pearson, David Werner, C. Sathyamala, David Werner;Carol Thuman;Jane Maxwell, David B. Werner",
+    "languages": "eng, fre, pus, myn, spa",
+    "available": true
+  },
+  {
+    "serial": "489",
+    "title": "Bu mu'yuk jloktor",
+    "author": "David Werner, Carol Thuman, Jane Maxwell, Andrew Pearson, David Werner, C. Sathyamala, David Werner;Carol Thuman;Jane Maxwell, David B. Werner",
+    "languages": "eng, fre, pus, myn, spa",
+    "available": true
+  },
+  {
+    "serial": "490",
+    "title": "Bu mu'yuk jloktor",
+    "author": "David Werner, Carol Thuman, Jane Maxwell, Andrew Pearson, David Werner, C. Sathyamala, David Werner;Carol Thuman;Jane Maxwell, David B. Werner",
+    "languages": "eng, fre, pus, myn, spa",
+    "available": true
+  }
+]
