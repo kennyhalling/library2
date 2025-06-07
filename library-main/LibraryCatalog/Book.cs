@@ -14,6 +14,9 @@ public class Book
 
     [JsonProperty("languages")]
     public string Languages { get; set; } = "";
+
+    [JsonIgnore] // Don't bind this to the old "languages" field from JSON
+    public string Language { get; set; } = "";
     
     [JsonProperty("available")]
     public bool IsAvailable { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\githubRepositories\\library\\LibraryCatalog\\LibraryCatalog.csproj": {}
+    "C:\\githubRepositories\\library2\\library-main\\LibraryCatalog\\LibraryCatalog.csproj": {}
   },
   "projects": {
-    "C:\\githubRepositories\\library\\LibraryCatalog\\LibraryCatalog.csproj": {
+    "C:\\githubRepositories\\library2\\library-main\\LibraryCatalog\\LibraryCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\githubRepositories\\library\\LibraryCatalog\\LibraryCatalog.csproj",
+        "projectUniqueName": "C:\\githubRepositories\\library2\\library-main\\LibraryCatalog\\LibraryCatalog.csproj",
         "projectName": "LibraryCatalog",
-        "projectPath": "C:\\githubRepositories\\library\\LibraryCatalog\\LibraryCatalog.csproj",
+        "projectPath": "C:\\githubRepositories\\library2\\library-main\\LibraryCatalog\\LibraryCatalog.csproj",
         "packagesPath": "C:\\Users\\kenny\\.nuget\\packages\\",
-        "outputPath": "C:\\githubRepositories\\library\\LibraryCatalog\\obj\\",
+        "outputPath": "C:\\githubRepositories\\library2\\library-main\\LibraryCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenny\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"

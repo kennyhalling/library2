@@ -1,62 +1,12 @@
 using System;
+using System.Data.Common;
 using System.Net.Http;
 using Newtonsoft.Json;
 
 public class Library
 {
-
-    private List<Book> books = new List<Book>();
-    private List<Checkout> checkouts = new List<Checkout>();
+    private DatabaseManager db = new DatabaseManager("localhost", "library_db", "root", "Yawadetirips20!");
     private LibraryAddress address = new LibraryAddress("123 Main St", "Rexburg", "83440");
-
-    public void LoadBooksFromFile()
-    {
-        try
-        {
-            Directory.CreateDirectory("data");
-            if (File.Exists("data/books.json"))
-            {
-                string json = File.ReadAllText("data/books.json");
-                books = JsonConvert.DeserializeObject<List<Book>>(json) ?? new List<Book>();
-            }
-            else
-            {
-                Console.WriteLine("Book file not found.");
-            }
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine("Error loading books: " + ex.Message);
-        }
-    }
-
-    public void LoadCheckoutsFromFile()
-    {
-        try
-        {
-            string path = "data/checkouts.json";
-            if (File.Exists(path))
-            {
-                string json = File.ReadAllText(path);
-                checkouts = JsonConvert.DeserializeObject<List<Checkout>>(json) ?? new List<Checkout>();
-                foreach (var checkout in checkouts)
-                {
-                    foreach (var book in checkout.Books)
-                    {
-                        Book? match = books.FirstOrDefault(b => b.SerialNumber == book.SerialNumber);
-                        if (match != null)
-                        {
-                            match.IsAvailable = false;
-                        }
-                    }
-                }
-            }
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine("Error loading checkouts: " + ex.Message);
-        }
-    }
 
     public void Run()
     {
@@ -71,6 +21,8 @@ public class Library
             Console.WriteLine("3. Checkout Books");
             Console.WriteLine("4. Return Books");
             Console.WriteLine("5. View Library Address");
+            Console.WriteLine("6. Delete Book");
+            Console.WriteLine("7. Add new Book");
             Console.WriteLine("0. Exit Menu");
             Console.WriteLine("Choose an option: ");
 
@@ -98,6 +50,16 @@ public class Library
                     Console.Clear();
                     ShowLibraryAddress();
                     break;
+                case "6":
+                    Console.Clear();
+                    Console.Write("Enter serial of book to delete: ");
+                    string serial = Console.ReadLine() ?? "";
+                    db.DeleteBook(serial);
+                    break;
+                case "7":
+                    Console.Clear();
+                    AddNewBook();
+                    break;
                 case "0":
                     Console.Clear();
                     running = false;
@@ -111,8 +73,6 @@ public class Library
                     break;
             }
         }
-        LoadBooksFromFile();
-        LoadCheckoutsFromFile();
     }
 
     private void Pause()
@@ -126,13 +86,15 @@ public class Library
         Console.Clear();
         Console.WriteLine("===== All Books =====");
 
-        if (books.Count == 0)
+        var allBooks = db.GetAllBooks();
+
+        if (allBooks.Count == 0)
         {
             Console.WriteLine("No books currently in catalog");
         }
         else
         {
-            foreach (Book book in books)
+            foreach (Book book in allBooks)
             {
                 Console.WriteLine(book);
             }
@@ -145,26 +107,20 @@ public class Library
         Console.Clear();
         Console.WriteLine("===== Search Books =====");
         Console.Write("Enter a title or author to search: ");
-        string query = Console.ReadLine() ?? "";
+        string keyword = Console.ReadLine() ?? "";
 
-        var matches = books.FindAll(book =>
-        book.Title.Contains(query, StringComparison.OrdinalIgnoreCase) ||
-        book.Author.Contains(query, StringComparison.OrdinalIgnoreCase)
-        );
+        var results = db.SearchBooks(keyword);
 
         Console.WriteLine();
 
-        if (matches.Count == 0)
+        if (results.Count == 0)
         {
             Console.WriteLine("No books matched your search");
         }
         else
         {
-            Console.WriteLine($"Found {matches.Count} book(s):\n");
-            foreach (Book book in matches)
-            {
+            foreach (var book in results)
                 Console.WriteLine(book);
-            }
         }
         Pause();
     }
@@ -180,7 +136,7 @@ public class Library
 
             if (input?.ToLower() == "done") break;
 
-            Book book = books.FirstOrDefault(b => b.SerialNumber == input)!;
+            Book book = db.GetBookBySerial(input);
             if (book == null)
             {
                 Console.WriteLine("Book not found.");
@@ -209,30 +165,22 @@ public class Library
         Console.Write("Enter your phone number: ");
         string phone = Console.ReadLine() ?? "";
 
-        User user = new User(name, phone);
-        Checkout checkout = new Checkout(user, cart.SelectedBooks.ToList());
+        int userId = db.GetOrCreateUserId(name, phone);
+        DateTime dueDate = DateTime.Now.AddDays(14);
+        int checkoutId = db.CreateCheckout(userId, dueDate);
 
-        LoadCheckoutsFromFile();
-        checkouts.Add(checkout);
-        cart.Clear();
+        foreach (Book book in cart.SelectedBooks)
+        {
+            db.AddBookToCheckout(checkoutId, book.SerialNumber);
+        }
 
-        Console.WriteLine("Checkout Complete: ");
-        Console.WriteLine(checkout);
+        Console.WriteLine($"Checkout complete! Books due on {dueDate.ToShortDateString()}.");
         Pause();
-
-        SaveCheckoutsToFile();
-        SaveBooksToFile();
     }
 
     public void ReturnBooks()
     {
         Console.WriteLine("===== Return Books =====");
-
-        Console.WriteLine("DEBUG: Known users:");
-        foreach (var c in checkouts)
-        {
-            Console.WriteLine($"- {c.User.Name} / {c.User.PhoneNumber}");
-        }
 
         Console.Write("Enter your name: ");
         string name = (Console.ReadLine() ?? "").Trim();
@@ -240,37 +188,32 @@ public class Library
         Console.Write("Enter your phone number: ");
         string phone = (Console.ReadLine() ?? "").Trim();
 
-        var matchingCheckouts = checkouts.Where(c =>
-            string.Equals(c.User.Name.Trim(), name.Trim(), StringComparison.OrdinalIgnoreCase) &&
-            c.User.PhoneNumber.Trim() == phone.Trim()
-        ).ToList();
-
-        if (matchingCheckouts.Count == 0)
+        int userId = db.GetOrCreateUserId(name, phone);
+        if (userId == -1)
         {
-            Console.WriteLine("No matching checkouts found.");
+            Console.WriteLine("User not found");
             Pause();
             return;
         }
 
-        foreach (var checkout in matchingCheckouts)
+        var booksToReturn = db.GetBooksCheckedOutByUser(userId);
+        if (booksToReturn.Count == 0)
         {
-            foreach (var book in checkout.Books)
-            {
-                Book? match = books.FirstOrDefault(b => b.SerialNumber == book.SerialNumber);
-                if (match != null)
-                {
-                    match.IsAvailable = true;
-                }
-            }
-
-            Console.WriteLine($"Returned {checkout.Books.Count} book(s) for {checkout.User.Name}.");
-            checkouts.Remove(checkout);
+            Console.WriteLine("No books found for this user.");
+            Pause();
+            return;
         }
 
-        Pause();
+        Console.WriteLine("The following books will be returned");
+        foreach (var book in booksToReturn)
+        {
+            Console.WriteLine(book);
+        }
 
-        SaveCheckoutsToFile();
-        SaveBooksToFile();
+        db.ReturnBooks(userId);
+
+        Console.WriteLine("Books returned successfully.");
+        Pause();
     }
 
     public struct LibraryAddress
@@ -299,32 +242,37 @@ public class Library
         Pause();
     }
 
-    public void SaveCheckoutsToFile()
+    public void AddNewBook()
     {
-        try
+        Console.WriteLine("===== Add New Book ======");
+
+        Console.Write("Enter serial number: ");
+        string serial = Console.ReadLine() ?? "";
+
+        Console.Write("Enter title: ");
+        string title = Console.ReadLine() ?? "";
+
+        Console.Write("Enter author: ");
+        string author = Console.ReadLine() ?? "";
+
+        Console.Write("Enter language (e.g. 'eng'): ");
+        string language = Console.ReadLine() ?? "";
+
+        Book newBook = new Book
         {
-            Directory.CreateDirectory("data");
-            string json = JsonConvert.SerializeObject(checkouts, Formatting.Indented);
-            File.WriteAllText("data/checkouts.json", json);
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine("Error saving checkouts:" + ex.Message);
-        }
-    }
-    
-    public void SaveBooksToFile()
-    {
-        try
-        {
-            Directory.CreateDirectory("data");
-            string json = JsonConvert.SerializeObject(books, Formatting.Indented);
-            File.WriteAllText("data/books.json", json);
-            Console.WriteLine("Books saved.");
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine("Error saving books: " + ex.Message);
-        }
+            SerialNumber = serial,
+            Title = title,
+            Author = author,
+            Language = language,
+            IsAvailable = true
+        };
+
+        bool success = db.InsertBook(newBook);
+        if (success)
+            Console.WriteLine("Book added successfully!");
+        else
+            Console.WriteLine("Failed to add book (maybe duplicate serial?).");
+
+        Pause();
     }
 }
